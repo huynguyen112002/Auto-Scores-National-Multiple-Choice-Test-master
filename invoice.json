@@ -1,0 +1,52 @@
+{
+    "fields":[
+        {
+            "name": "anh dau vao",
+            "pattern": "phieu tra loi trac nghiem",
+            "width": "2000",
+            "height": "3000"
+        },
+        {
+            "name": "so bao danh",
+            "pattern": "khu vuc so bao danh",
+            "position": "1500, 330",
+            "width": "230",
+            "height": "600"
+        },
+        {
+            "name": "ma de thi",
+            "pattern": "khu vuc ma de thi",
+            "position": "1800, 330",
+            "width": "130",
+            "height": "600"
+        },
+        {
+            "name": "khu vuc tra loi cau hoi",
+            "pattern": "cot 1",
+            "position": "220, 1045",
+            "width": "320",
+            "height": "1870"
+        },
+        {
+            "name": "khu vuc tra loi cau hoi",
+            "pattern": "cot 2",
+            "position": "680, 1045",
+            "width": "320",
+            "height": "1870"
+        },
+        {
+            "name": "khu vuc tra loi cau hoi",
+            "pattern": "cot 3",
+            "position": "1140, 1045",
+            "width": "320",
+            "height": "1870"
+        },
+        {
+            "name": "khu vuc tra loi cau hoi",
+            "pattern": "cot 4",
+            "position": "1360, 1045",
+            "width": "320",
+            "height": "1870"
+        }
+    ]
+}
